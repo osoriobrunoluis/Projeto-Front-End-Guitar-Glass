@@ -15,6 +15,6 @@
   <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/ApiGuitarGlass"> ApiGuitarGlass</a>
   <p>⚙️ Abrir o terminal no computador e usar Yarn para rodar api localmente </p> 
   <p>⚙️ Abir esse <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-KenzieAdot/new/main?readme=1"> REPOSITÓRIO </a>
-  <p>⚙️ Abrir o projeto com Vs-Code e rodar o Go Live </p>
+  <p>⚙️ Abrir o projeto com Vs-Code e rodar yarn para rodar o projeto </p>
 
 
