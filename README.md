@@ -12,9 +12,9 @@
      
   <h2> Rodando o projeto </h2>
   
-  <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/Kenzie-Academy-Brasil-Developers/kenzie-adopt"> ApiGuitarGlass</a>
-  <p>⚙️ Abrir o terminal no computador e usar npm para rodar api localmente </p> 
+  <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/ApiGuitarGlass"> ApiGuitarGlass</a>
+  <p>⚙️ Abrir o terminal no computador e usar Yarn para rodar api localmente </p> 
   <p>⚙️ Abir esse <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-KenzieAdot/new/main?readme=1"> REPOSITÓRIO </a>
   <p>⚙️ Abrir o projeto com Vs-Code e rodar o Go Live </p>
-  <p>⚙️ Na página register no campo Avatar, incluir uma imagem do seu avatar através de uma URL</p> 
-  <p>⚙️ Na página perfil do usuário ao cadastrar novo pet no campo avatar incluir uma URL para imagem do pet</p> 
+
+
